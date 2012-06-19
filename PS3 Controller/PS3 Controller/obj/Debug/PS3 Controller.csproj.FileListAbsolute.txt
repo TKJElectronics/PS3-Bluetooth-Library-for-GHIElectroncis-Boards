@@ -1,0 +1,33 @@
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\le\PS3 Controller.exe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\be\PS3 Controller.exe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\le\PS3 Controller.pdb
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\be\PS3 Controller.pdb
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\PS3 Controller.exe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\PS3 Controller.pdb
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\le\PS3 Controller.pe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\le\PS3 Controller.pdbx
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\be\PS3 Controller.pe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\be\PS3 Controller.pdbx
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\LE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\BE\GHIElectronics.NETMF.USBHost.pdbx
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\bin\Debug\GHIElectronics.NETMF.USBHost.xml
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\PS3_Controller.Resources.resources
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\PS3_Controller.Resources.tinyresources
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\TinyResGen.cache
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\PS3 Controller.exe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\PS3 Controller.pdb
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\be\PS3 Controller.pe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\be\PS3 Controller.pdbx
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\le\PS3 Controller.pe
+C:\Users\Lauszus\documents\visual studio 2010\Projects\PS3 Controller\PS3 Controller\obj\Debug\le\PS3 Controller.pdbx
